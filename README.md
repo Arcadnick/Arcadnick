@@ -1,9 +1,14 @@
+
+
+## Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcadnick&layout=compact&theme=dark)
 
 
-<!--## Hi there 👋
+
 
 <!--
+## Hi there 👋
+<h1 align="center">Hi there👋</h1>
 **Arcadnick/Arcadnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
